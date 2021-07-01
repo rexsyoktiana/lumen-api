@@ -41,7 +41,7 @@ class OrdersController extends Controller
             $getId  = $this->orders->get_last_order();
 
             $id = "";
-            if (empty($getId)) {
+            if (empty($getId[0])) {
                 $id = $defaultId . '001';
             } else {
                 $id = explode("-", $getId[0]->id);
@@ -145,9 +145,17 @@ class OrdersController extends Controller
         }
     }
 
-    public function get(Request $request)
+    public function get(Request $request, $id)
     {
         try {
+            $order = $this->orders->get_where_id($id);
+            if(empty($order)){
+                return response()->json([
+                    'status'    =>  'error',
+                    'message'   =>  'Order ID not found'
+                ]);
+            }
+
             $user = $this->users->get_where_id($request->id_user);
             if (empty($user)) {
                 return response()->json([

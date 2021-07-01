@@ -28,7 +28,7 @@ $router->group(['prefix' => 'api'], function () use ($router) {
     
     $router->group(['middleware' => 'auth'], function () use ($router) {
         $router->post('/orders', 'OrdersController@create');
-        $router->get('/orders/aktif', 'OrdersController@status');
+        $router->get('/orders/status/{status}', 'OrdersController@status');
         $router->get('/orders/{id}', 'OrdersController@get');
         $router->put('/orders/{id}', 'OrdersController@pay');
         

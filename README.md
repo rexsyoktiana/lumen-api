@@ -39,7 +39,6 @@
     10. Done
 
 ## TEST API WITH POSTMAN
-![Image](https://drive.google.com/uc?export=view&id=1X1fQfPG_1emKan0RyiKmFqmKkg-zm-wz)<br>
 1. Auth
     - Register
         ![Image](https://drive.google.com/uc?export=view&id=1yQ9E1qyG0j7yKd-_HawXX53GGpRPKd0a)
@@ -51,20 +50,47 @@
 2. Foods
     - Create<br>
         Fill Params<br>
-        Fill Authorization<br>
+        Fill Authorization (Bearer Token) with token from login<br>
         ![image](https://drive.google.com/uc?export?=view&id=1pgeQHsFS4Bd9ANTxScF515_nkSx2f3aR)
     - Get<br>
-        Fill Authorization<br>
+        Fill Authorization (Bearer Token) with token from login<br>
         ![image](https://drive.google.com/uc?export=view&id=1SO1FXtGii0Q9lEDa-C7qVfl-SGfkJ8hr)
     - Update<br>
         Fill Params<br>
-        Fill Authorization<br>
+        Fill Authorization (Bearer Token) with token from login<br>
         ![image](https://drive.google.com/uc?export=view&id=1R_jFnBV3p5hN2d_mjey_Do3eiXrsh6DM)
     - Delete<br>
-        Fill Authorization<br>
+        Fill Authorization (Bearer Token) with token from login<br>
         ![image](https://drive.google.com/uc?export=view&id=1Qusu806x_HRM4VBgoajNutqHTpWpKqLj)
 3. Orders
+    - Create<br>
+        Fill Params
+        Fill Authorization (Bearer Token) with token from login
+        ![image](https://drive.google.com/uc?export=view&id=1KU6-BY_it1bDUzNzykcLukFJqIjZgRCV)
+    - Get Active Status
+        Fill Authorization (Bearer Token) with token from login
+        ![image](https://drive.google.com/uc?export=view&id=1O7N-tN_i32shdvLX5cpi1zZSEhFs9-U8)
+    - Payment
+        Fill Params
+        Fill Authorization (Bearer Token) with token from login
+        ![image](https://drive.google.com/uc?export=view&id=1HI5oJFkCpad-IJSJscZOI6id-YLSmFnN)
+    - Get Orders ID
+        Fill Params
+        Fill Authorization (Bearer Token) with token from login
+        ![image](https://drive.google.com/uc?export?=view&id=19acfZqVInIXNj2Uaur7ZPb4-dYFbmPIA)
 4. Order Details
+   - Create<br>
+        Fill Params<br>
+        Fill Authorization (Bearer Token) with token from login
+        ![image](https://drive.google.com/uc?export=view&id=1V65c6FcTJWcasgScvEXvHD5-9Cx64XUJ)
+   - Update <br>
+        Fill Params<br>
+        Fill Authorization (Bearer Token) with token from login
+        ![image](https://drive.google.com/uc?export=view&id=1KVfqowOUVhNXrJD-siAqx5RE5axrwYih)
+   - Delete<br>
+        Fill Params<br>
+        Fill Authorization (Bearer Token) with token from login
+        ![image](https://drive.google.com/uc?export=view&id=1rXrxJyMsOgJoonQS0KBtLaE2jrzQN3y5)
 
 ## MORE OTHER
 Github: https://github.com/rexsyoktiana<br>
