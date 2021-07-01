@@ -39,10 +39,16 @@
     10. Done
 
 ## TEST API WITH POSTMAN
-
+![Image](https://drive.google.com/uc?export=view&id=1X1fQfPG_1emKan0RyiKmFqmKkg-zm-wz)<br>
+1. Auth
+    - Register
+    - Login
+    - Logout
+2. Foods
+3. Orders
+4. Order Details
 
 ## MORE OTHER
-
-Github: https://github.com/rexsyoktiana<br>
-LinkedIn: https://linkedin.com/in/rexsyoktiana <br>
-Youtube:https://www.youtube.com/channel/UCpDIYPeC6o1WuUAl_IegSnA
+    Github: https://github.com/rexsyoktiana<br>
+    LinkedIn: https://linkedin.com/in/rexsyoktiana <br>
+    Youtube: https://www.youtube.com/channel/UCpDIYPeC6o1WuUAl_IegSnA
