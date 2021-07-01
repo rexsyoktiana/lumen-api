@@ -49,6 +49,20 @@
         Fill Authorization (Bearer Token) with token from login
         ![image](https://drive.google.com/uc?export=view&id=1X3sFwG3Ke7vre5oEBjkVpNXWP_q2AiCf)
 2. Foods
+    - Create<br>
+        Fill Params<br>
+        Fill Authorization<br>
+        ![image](https://drive.google.com/uc?export?=view&id=1pgeQHsFS4Bd9ANTxScF515_nkSx2f3aR)
+    - Get<br>
+        Fill Authorization<br>
+        ![image](https://drive.google.com/uc?export=view&id=1SO1FXtGii0Q9lEDa-C7qVfl-SGfkJ8hr)
+    - Update<br>
+        Fill Params<br>
+        Fill Authorization<br>
+        ![image](https://drive.google.com/uc?export=view&id=1R_jFnBV3p5hN2d_mjey_Do3eiXrsh6DM)
+    - Delete<br>
+        Fill Authorization<br>
+        ![image](https://drive.google.com/uc?export=view&id=1Qusu806x_HRM4VBgoajNutqHTpWpKqLj)
 3. Orders
 4. Order Details
 
