@@ -12,8 +12,13 @@
 
 ## Database Preparation
 1.  Open Microsoft SQL Server Management Studio 18
-2.  Connect to SQL Server 
-![Connect to SQL Server](https://drive.google.com/file/d/1vCqy3qBQoVmD7x1jm1jQxsrRFjCh2Ibu/view?usp=sharing "Connect to SQL Server")
+2.  Connect to SQL Server \&nbsp;
+![Image](https://drive.google.com/uc?export=view&id=1vCqy3qBQoVmD7x1jm1jQxsrRFjCh2Ibu)
+3.  Click Connect Button
+4.  Create a New Database with the name "lumen_api" \&nbsp;
+![Image](https://drive.google.com/uc?export=view&id=1RyifEM3K2HafIWJAb7GQJ8QXVUB3HGMJ)
+5.  Done
+
 ## Installasi Laravel
     1.  git clone https://github.com/rexsyoktiana/lumen-api.git
     2.  cd lumen-api
