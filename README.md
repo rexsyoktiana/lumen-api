@@ -42,13 +42,17 @@
 ![Image](https://drive.google.com/uc?export=view&id=1X1fQfPG_1emKan0RyiKmFqmKkg-zm-wz)<br>
 1. Auth
     - Register
+        ![Image](https://drive.google.com/uc?export=view&id=1yQ9E1qyG0j7yKd-_HawXX53GGpRPKd0a)
     - Login
-    - Logout
+        ![image](https://drive.google.com/uc?export=view&id=1aAPOd3iOTh1fKQqek6Re12PYzBq70Irf)
+    - Logout<br>
+        Fill Authorization (Bearer Token) with token from login
+        ![image](https://drive.google.com/uc?export=view&id=1X3sFwG3Ke7vre5oEBjkVpNXWP_q2AiCf)
 2. Foods
 3. Orders
 4. Order Details
 
 ## MORE OTHER
-    Github: https://github.com/rexsyoktiana<br>
-    LinkedIn: https://linkedin.com/in/rexsyoktiana <br>
-    Youtube: https://www.youtube.com/channel/UCpDIYPeC6o1WuUAl_IegSnA
+Github: https://github.com/rexsyoktiana<br>
+LinkedIn: https://linkedin.com/in/rexsyoktiana <br>
+Youtube: https://www.youtube.com/channel/UCpDIYPeC6o1WuUAl_IegSnA
