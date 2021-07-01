@@ -5,6 +5,7 @@
     2. Laragon 4.0
     3. Microsoft SQL Server 2019
     4. Microsoft SQL Server Management Studio 18
+   
 ## Installasi Driver PHP Extension for SQL Server
     Install Driver PHP Extension pada folder php 7.4 di laragon
     1. sqlsrv : https://pecl.php.net/package/sqlsrv/5.9.0/windows
@@ -12,10 +13,10 @@
 
 ## Database Preparation
 1.  Open Microsoft SQL Server Management Studio 18
-2.  Connect to SQL Server \&nbsp;
+2.  Connect to SQL Server <br>
 ![Image](https://drive.google.com/uc?export=view&id=1vCqy3qBQoVmD7x1jm1jQxsrRFjCh2Ibu)
 3.  Click Connect Button
-4.  Create a New Database with the name "lumen_api" \&nbsp;
+4.  Create a New Database with the name "lumen_api" <br>
 ![Image](https://drive.google.com/uc?export=view&id=1RyifEM3K2HafIWJAb7GQJ8QXVUB3HGMJ)
 5.  Done
 
@@ -31,22 +32,17 @@
         DB_DATABASE=lumen_api
         DB_USERNAME=null
         DB_PASSWORD=null
+    6.  php artisan key:generate
+    7.  php artisan jwt:secret
+    8.  php artisan migrate
+    9.  php -S localhost:8000 -t public
+    10. Done
+
+## TEST API WITH POSTMAN
 
 
-Laravel Lumen is a stunningly fast PHP micro-framework for building web applications with expressive, elegant syntax. We believe development must be an enjoyable, creative experience to be truly fulfilling. Lumen attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as routing, database abstraction, queueing, and caching.
+## MORE OTHER
 
-## Official Documentation
-
-Documentation for the framework can be found on the [Lumen website](https://lumen.laravel.com/docs).
-
-## Contributing
-
-Thank you for considering contributing to Lumen! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Lumen, please send an e-mail to Taylor Otwell at taylor@laravel.com. All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Lumen framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+Github: https://github.com/rexsyoktiana<br>
+LinkedIn: https://linkedin.com/in/rexsyoktiana <br>
+Youtube:https://www.youtube.com/channel/UCpDIYPeC6o1WuUAl_IegSnA
