@@ -1,6 +1,15 @@
-# LUMEN API PHP FRAMEWORK
+# LUMEN API PHP FRAMEWORK WITH SQL SERVER 2019
 
-## Installasi
+## Requirement
+    1. PHP 7.4
+    2. Laragon 4.0
+    3. Microsoft SQL Server 2019
+    4. Microsoft SQL Server Management Studio 18
+## Installasi Driver PHP Extension for SQL Server
+    Install Driver PHP Extension pada folder php 7.4 di laragon
+    1. sqlsrv : https://pecl.php.net/package/sqlsrv/5.9.0/windows
+    2. pdo_sqlsrv : https://pecl.php.net/package/pdo_sqlsrv/5.9.0/windows 
+## Installasi Laravel
 1.  git clone https://github.com/rexsyoktiana/lumen-api.git
 2.  
 
