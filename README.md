@@ -6,7 +6,7 @@
     3. Microsoft SQL Server 2019
     4. Microsoft SQL Server Management Studio 18
    
-## Installasi Driver PHP Extension for SQL Server
+## Install PHP Extension Driver for SQL Server
     Install Driver PHP Extension pada folder php 7.4 di laragon
     1. sqlsrv : https://pecl.php.net/package/sqlsrv/5.9.0/windows
     2. pdo_sqlsrv : https://pecl.php.net/package/pdo_sqlsrv/5.9.0/windows
@@ -20,7 +20,7 @@
 ![Image](https://drive.google.com/uc?export=view&id=1RyifEM3K2HafIWJAb7GQJ8QXVUB3HGMJ)
 5.  Done
 
-## Installasi Laravel
+## Install Laravel
     1.  git clone https://github.com/rexsyoktiana/lumen-api.git
     2.  cd lumen-api
     3.  composer install
